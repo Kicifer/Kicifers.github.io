@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in College of Smart Energy, Shanghai Jiao Tong University, 2022 - Present
+* M.E. in College of Smart Energy, Shanghai Jiao Tong University, 2022 - Present
 * B.E. in School of Electrical & Information Engineering, Changsha University of Science & Technology, 2017-2021
 
 Work experience
