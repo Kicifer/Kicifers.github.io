@@ -12,7 +12,7 @@ I'm a second-year master from [College of Smart Energy](https://www.senergy.sjtu
 
 I am very fortunate to be advised by Prof. M. Song from [College of Smart Energy](https://www.senergy.sjtu.edu.cn/), Shanghai Jiao Tong University.
 
-You can find my CV here: [Ningkang Zhao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Ningkang Zhao's Curriculum Vitae](https://kicifer.github.io/cv/) or PDF:[Ningkang Zhao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email: k_icifer@sjtu.edu.cn](mailto:k_icifer@sjtu.edu.cn) / [Wechat: Kicifer](../images/wechat.jpg).
 
