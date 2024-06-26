@@ -1,7 +1,7 @@
 ---
 title: "Nanodiamond Coating in Energy and Engineering Fields: Synthesis Methods, Characteristics, and Applications"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Small.2024
 excerpt: 'This paper is about Nanodiamond Coating, including the synthesis methods, characteristics, and applications in energy and engineering fields.'
 date: 2024-04-19
 venue: 'Small'
