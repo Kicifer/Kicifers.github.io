@@ -31,8 +31,8 @@ Award & Honor
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Language & Skills
+
+Additional Experience
 ======
 * Skill 1
 * Skill 2
@@ -40,8 +40,8 @@ Language & Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Additional Experience
+  
+Language & Skills
 ======
 * Skill 1
 * Skill 2
