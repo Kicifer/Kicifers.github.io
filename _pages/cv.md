@@ -14,7 +14,13 @@ Education
 * M.E. in College of Smart Energy, Shanghai Jiao Tong University, 2022 - Present
 * B.E. in School of Electrical & Information Engineering, Changsha University of Science & Technology, 2017-2021
 
-Work experience
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Award & Honor
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,7 +32,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Language & Skills
 ======
 * Skill 1
 * Skill 2
@@ -35,12 +41,15 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Additional Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+ <!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -56,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
