@@ -23,12 +23,7 @@
     <div class="background" onclick="redirectToMain()"></div>
     <script>
         function redirectToMain() {
-            window.location.href = "/";
-        }
-        if (localStorage.getItem('visited')) {
-            window.location.href = "/"; // 跳转到根目录
-        } else {
-            localStorage.setItem('visited', 'true');
+            window.location.href = "/homepage";
         }
     </script>
 </body>
